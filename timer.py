@@ -1,6 +1,6 @@
 
 import termcolor
-import time, threading
+import time
 
 
 def start_timer():
